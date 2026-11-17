@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Razi%20Ahmed%20M&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer%20%26%20AI%20Systems%20Engineer&descSize=16&descAlignY=58" alt="header" />
+<img src="header.svg" alt="header" />
 
 <a href="https://github.com/razi-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+resilient+mobile+architectures;Low-latency+audio+%26+WebRTC+protocols;Context-grounded+RAG+%2F+LangGraph+agents" alt="typing" /></a>
 
@@ -97,10 +97,10 @@ Cellular coverage analyzer: tower mapping, signal heatmaps, and multi-carrier te
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=razi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=razi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=razi-dev&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=razi-dev&theme=tokyonight&hide_border=true" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
+<img src="footer.svg" width="100%" />
