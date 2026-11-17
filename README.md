@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="header" />
+<img src="header.svg" alt="Razi Ahmed M" width="100%" />
 
 <a href="https://github.com/razi-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+resilient+mobile+architectures;Low-latency+audio+%26+WebRTC+protocols;Context-grounded+RAG+%2F+LangGraph+agents" alt="typing" /></a>
 
