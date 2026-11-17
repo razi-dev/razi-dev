@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="header.svg" alt="Razi Ahmed M" width="100%" />
+<a href="https://raziahmed.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=60&lines=Razi+Ahmed+M" alt="Razi Ahmed M" /></a>
+
+<img src="https://img.shields.io/badge/Mobile_Application_Developer_%26_AI_Systems_Engineer-0f172a?style=for-the-badge" alt="role" />
 
 <a href="https://github.com/razi-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+resilient+mobile+architectures;Low-latency+audio+%26+WebRTC+protocols;Context-grounded+RAG+%2F+LangGraph+agents" alt="typing" /></a>
 
@@ -97,10 +99,12 @@ Cellular coverage analyzer: tower mapping, signal heatmaps, and multi-carrier te
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=razi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=razi-dev&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=razi-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=razi-dev&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/2563eb/razi-dev" alt="contribution graph" width="90%" />
+  <br/><br/>
+  <a href="https://github.com/razi-dev?tab=followers"><img src="https://img.shields.io/github/followers/razi-dev?style=for-the-badge&logo=github&color=2563eb" /></a>
+  <a href="https://github.com/razi-dev?tab=repositories"><img src="https://img.shields.io/github/stars/razi-dev?style=for-the-badge&logo=github&color=0f172a" /></a>
+  <img src="https://img.shields.io/github/commit-activity/y/razi-dev/TrueTalkie?style=for-the-badge&label=TrueTalkie%20commits%2Fyr&color=2563eb" />
 </div>
 
-<img src="footer.svg" width="100%" />
